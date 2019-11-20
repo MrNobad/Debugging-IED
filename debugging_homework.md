@@ -19,7 +19,7 @@ Answer the following questions:
 - No, it stops the application before the line of code is run.
 
 3. How do we debug the next line of code?
-- To run the next line of code you use the 'step over' command. This will run the breakpoiont line then stop at the next line of code.
+- To run the next line of code you use the 'step over' command. This will run the breakpoint line then stop at the next line of code.
 
 4. What does the step into command do?
 - The 'step into' command will 'step into' a function and stop at the first method associated with that function. You can then step over the method, line by line to debug.
